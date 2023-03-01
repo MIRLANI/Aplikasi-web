@@ -1,7 +1,7 @@
 FITUR-FITUR YANG ADA DIAPLIKASI WEBSITE YANG SAYA BUAT
 1. Bisa menampilkan data yang ada di data base
 2. Bisa melakukan penghapusan file
-3. Bisa mengubah file
-4. Bisa menambahkan file 
-5. Ada fitur pencarian
-6. Ada fitur Hapus
+3. Bisa menambahkan file 
+4. Ada fitur pencarian
+5. Ada fitur Hapus
+6. Bisa memunculkan gambar
